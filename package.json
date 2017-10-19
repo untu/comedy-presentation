@@ -1,0 +1,21 @@
+{
+  "name": "comedy-itgm",
+  "version": "0.0.1",
+  "description": "Comedy Framework usage examples.",
+  "main": "prime-finder.js",
+  "dependencies": {
+    "bluebird": "3.4.6",
+    "comedy": "*",
+    "restify": "5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "4.4.0",
+    "eslint-config-google": "0.6.0",
+    "eslint-plugin-jsdoc": "2.3.1"
+  },
+  "author": "Untu Inc.",
+  "license": "EPL-1.0",
+  "scripts": {
+    "start": "nodejs prime-finder.js"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "PrimeFinderActor": {
+    "mode": "in-memory"
+  }
+}
